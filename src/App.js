@@ -1,3 +1,6 @@
+//netlify site name: githubfinder41987
+//netlify deployment link: https://githubfinder41987.netlify.app/
+
 import React from 'react';
 import { BrowserRouter as Router, Switch, Route } from 'react-router-dom';
 import Navbar from './components/layout/Navbar';
